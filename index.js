@@ -9,3 +9,5 @@ function Far(f){
     return c;
 }
 console.log(Far(100));
+
+console.log(Far(180));
